@@ -18,13 +18,13 @@ hr {
 }
 
 .red {
-	background-color: #ff0000;
+	background-color: hsl(0, 100%, 50%);
 }
 
 .green {
-	background-color: #007F00;
+	background-color: hsl(120, 100%, 25%);
 }
 
 .blue {
-	background-color: #0000ff;
+	background-color: hsl(240, 100%, 50%);
 }
