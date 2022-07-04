@@ -18,13 +18,49 @@ hr {
 }
 
 .red {
-	background-color: hsl(0, 100%, 50%);
+	background-color: #FF0000;
 }
 
 .green {
-	background-color: hsl(120, 100%, 25%);
+	background-color: #007F00;
 }
 
 .blue {
-	background-color: hsl(240, 100%, 50%);
+	background-color: #0000FF;
+}
+
+.yellow {
+	background-color: #FFFF00;
+}
+
+.cyan {
+	background-color: #00FFFF;
+}
+
+.magenta {
+	background-color: #FF00FF;
+}
+
+.orange {
+	background-color: #FF8000;
+}
+
+.springGreen {
+	background-color: #00FF7F;
+}
+
+.violet {
+	background-color: #7F00FF;
+}
+
+.chartreuse {
+	background-color: #7FFF00;
+}
+
+.azure {
+	background-color: #0080FF;
+}
+
+.roze {
+	background-color: #FF0080;	
 }
