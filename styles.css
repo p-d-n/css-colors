@@ -51,6 +51,7 @@ hr {
 
 .violet {
 	background-color: #7F00FF;
+	background-color: #7F00FF;
 }
 
 .chartreuse {
@@ -63,4 +64,16 @@ hr {
 
 .roze {
 	background-color: #FF0080;	
+}
+
+.gradientRed {
+	background: linear-gradient(180deg, rgb(122, 74, 14), rgb(245, 62, 113), rgb(162, 27, 27));
+}
+
+.gradientGreen {
+	background: linear-gradient(#55680D, #71F53E, #116C31);
+}
+
+.gradientBlue {
+	 background: linear-gradient(hsl(186, 76%, 16%), hsl(223, 90%, 60%), hsl(240, 56%, 42%));
 }
